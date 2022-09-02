@@ -5,4 +5,6 @@ After adding strat and end tokens to the caption and assigning an index to words
 ![training the model](https://github.com/BanafshehKarimian/Image-Captioning/blob/main/1.PNG)<br />
 ![testing the model](https://github.com/BanafshehKarimian/Image-Captioning/blob/main/2.PNG)<br />
 A sample of the result:<br />
-![A sample of the result](https://github.com/BanafshehKarimian/Image-Captioning/blob/main/resultsample.PNG)
+<p align="center">
+  <img src="https://github.com/BanafshehKarimian/Image-Captioning/blob/main/resultsample.PNG" alt="A sample of the result"/>
+</p>
